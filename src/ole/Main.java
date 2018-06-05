@@ -13,8 +13,8 @@ public class Main {
         ObjectInputStream ois = new ObjectInputStream(is);
         HashMap<String,String> headValueMap = (HashMap<String, String>) ois.readObject();
         HashMap<Integer, ArrayList<String[]>> bodyValueMap = (HashMap<Integer, ArrayList<String[]>>) ois.readObject();
-//        System.out.println(headValueMap);
-//        System.out.println(bodyValueMap);
+        System.out.println(headValueMap);
+        System.out.println(bodyValueMap);
         String photoPath = Main.class.getClassLoader().getResource("ole/logo.png").getFile();
         System.out.println(photoPath);
         photoPath = "D:/Idea/Office/out/production/Office/ole/logo.png";
