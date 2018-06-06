@@ -28,7 +28,7 @@ public class WPSAccessoryEditor implements Runnable {
 
 	public static final int HEIGHT = 800;
 	public static final int WIDTH = 900;
-	private WPSWRapper wpsWrapper;
+	private WPSWrapper wpsWrapper;
 	private Display display;
 	private Shell shell;
 	private Button saveButton;
@@ -72,8 +72,7 @@ public class WPSAccessoryEditor implements Runnable {
 
 	@Override
 	public void run() {
-		InformationDialog ldt = new InformationDialog(false, "提示信息",
-				"加载文件中，请稍后");
+		InformationDialog ldt = new InformationDialog("加载文件中，请稍后");
 		display = new Display();
 		shell = new Shell(display);
 		shell.setText("BUCG");
@@ -83,7 +82,7 @@ public class WPSAccessoryEditor implements Runnable {
 		shell.layout();
 		shell.setSize(WIDTH, HEIGHT);
 
-		wpsWrapper = new WPSWRapper(shell, SWT.ON_TOP | SWT.SYSTEM_MODAL
+		wpsWrapper = new WPSWrapper(shell, SWT.ON_TOP | SWT.SYSTEM_MODAL
 				| SWT.NO_TRIM, filePath);
 
 		int x = (Toolkit.getDefaultToolkit().getScreenSize().width - WIDTH) / 2;
@@ -126,11 +125,11 @@ public class WPSAccessoryEditor implements Runnable {
 		}
 	}
 
-	public WPSWRapper getWpsWrapper() {
+	public WPSWrapper getWpsWrapper() {
 		return wpsWrapper;
 	}
 
-	public void setWpsWrapper(WPSWRapper wpsWrapper) {
+	public void setWpsWrapper(WPSWrapper wpsWrapper) {
 		this.wpsWrapper = wpsWrapper;
 	}
 
@@ -202,8 +201,7 @@ public class WPSAccessoryEditor implements Runnable {
 			@Override
 			public void widgetSelected(SelectionEvent arg0) {
 				// 显示报文提示框
-				InformationDialog dialog = new InformationDialog(false, "提示信息",
-						"文件保存中，请稍后");
+				InformationDialog dialog = new InformationDialog("文件保存中，请稍后");
 				wpsWrapper.saveDoc();
 				dialog.dispose();
 			}
@@ -249,7 +247,7 @@ public class WPSAccessoryEditor implements Runnable {
 					// 另存为新文档
 					wpsWrapper.saveDoc(otherFilePath);
 					// 完成后进行提示，一秒后自动消失
-					InformationDialog dialog = new InformationDialog(false, "提示信息", "文件保存成功");
+					InformationDialog dialog = new InformationDialog("文件保存成功");
 					try {
 						Thread.sleep(1000);
 					} catch (InterruptedException e) {

@@ -16,8 +16,8 @@ public class Main {
         System.out.println(headValueMap);
         System.out.println(bodyValueMap);
         String photoPath = Main.class.getClassLoader().getResource("ole/logo.png").getFile();
+        photoPath = photoPath.substring(1, photoPath.length());
         System.out.println(photoPath);
-        photoPath = "D:/Idea/Office/out/production/Office/ole/logo.png";
         String filePath = Main.class.getClassLoader().getResource("ole/PersonInfoTemplate.doc").getFile();
         System.out.println(filePath);
         new WPSAccessoryEditor(photoPath, headValueMap, bodyValueMap, filePath, true, 1);

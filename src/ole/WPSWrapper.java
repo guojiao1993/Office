@@ -6,20 +6,19 @@ import org.eclipse.swt.ole.win32.*;
 import org.eclipse.swt.widgets.Composite;
 
 import java.io.File;
-import java.util.Date;
 
 /**
  * WPS包装类
  *
  * @author Administrator
  */
-public class WPSWRapper extends Composite {
-    private OleFrame oleFrame1;
+public class WPSWrapper extends Composite {
+    private OleFrame oleFrame;
     private OleAutomation doc;
     private OleClientSite site;
     private String filePath;
 
-    public WPSWRapper(Composite parent, int style, String filePath) {
+    public WPSWrapper(Composite parent, int style, String filePath) {
         super(parent, style);
         this.filePath = filePath;
         initGUI();
@@ -37,9 +36,9 @@ public class WPSWRapper extends Composite {
             this.setLayout(thisLayout);
             this.setSize(229, 54);
 
-            oleFrame1 = new OleFrame(this, SWT.NONE);
+            oleFrame = new OleFrame(this, SWT.NONE);
 
-            site = new OleClientSite(oleFrame1, org.eclipse.swt.SWT.NONE, "kwps.document", new File(filePath));
+            site = new OleClientSite(oleFrame, org.eclipse.swt.SWT.NONE, "kwps.document", new File(filePath));
             site.setBounds(0, 0, 104, 54);
             site.doVerb(OLE.OLEIVERB_UIACTIVATE);
 
@@ -463,7 +462,7 @@ public class WPSWRapper extends Composite {
         int addin[] = seOle.getIDsOfNames(new String[]{"AddIns"});
         Variant se2 = seOle.getProperty(addin[0]);
         OleAutomation seOle3 = se2.getAutomation();
-        String url = WPSWRapper.class.getClassLoader().getResource("nc/wps/accessory/template.docx").getPath().substring(1);
+        String url = WPSWrapper.class.getClassLoader().getResource("nc/wps/accessory/template.docx").getPath().substring(1);
         System.out.println(url);
 
         int addin1[] = seOle3.getIDsOfNames(new String[]{"Add"});
