@@ -1,5 +1,7 @@
 package ole;
 
+import com.sun.awt.AWTUtilities;
+
 import java.awt.*;
 
 import javax.swing.*;
@@ -7,65 +9,52 @@ import javax.swing.*;
 /**
  * @author Alan
  */
-public class S {
-    JFrame frame = new JFrame();
+public class S extends JDialog{
 
     S(String info) {
-//        dialog.setSize(600, 200);
-
-        Container contentPane = frame.getContentPane();
+        Container contentPane = getContentPane();
         contentPane.setLayout(new BorderLayout());
-//        contentPane.setLayout(null);
 
-//        setLayout(new BorderLayout());
+//        JLabel label = new JLabel(info);
+//        label.setFont(new Font("宋体", Font.PLAIN, 25));
+//        label.setHorizontalAlignment(SwingConstants.CENTER);
+//        contentPane.add(label, BorderLayout.NORTH);
 
-        JLabel label = new JLabel(info);
-//        label.setSize(150, 50);
-        label.setFont(new Font("宋体", Font.PLAIN, 25));
-//        add(label);
-//        add(label, BorderLayout.CENTER);
+        String url = InformationDialog.class.getClassLoader().getResource("ole/bg.png").getFile();
+        ImageIcon icon = new ImageIcon(url);
+        setIconImage(icon.getImage());
 
-//        JPanel panel = new JPanel();
-//        panel.setSize(300, 100);
-//        panel.setLayout(new BorderLayout());
-//        panel.add(label, BorderLayout.CENTER);
+        JLabel backLabel = new JLabel() {
+            @Override
+            public void paint(Graphics g) {
+                super.paint(g);
+                icon.paintIcon(this, g, 0, 0);
+            }
+        };
+        add(backLabel, BorderLayout.CENTER);
 
-        contentPane.add(label, BorderLayout.CENTER);
-//        contentPane.add(label);
+        setUndecorated(true);
+        setResizable(false);
+        setAlwaysOnTop(true);
+        setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
 
-//        add(panel);
+        pack();
 
-//        String url = InformationDialog.class.getClassLoader().getResource("ole/logo.png").getFile();
-//        ImageIcon icon = new ImageIcon(url);
-//        setIconImage(icon.getImage());
-//        setUndecorated(true);
+        setSize(300, 100);
+//        int x = (Toolkit.getDefaultToolkit().getScreenSize().width - getWidth()) / 2;
+//        int y = (Toolkit.getDefaultToolkit().getScreenSize().height - getHeight()) / 2;
+//        setLocation(x, y);
 
-//        dialog.setResizable(false);
-        frame.setAlwaysOnTop(true);
-        frame.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
+        AWTUtilities.setWindowOpaque(this, false);
+        setLocationRelativeTo(null);  //设置窗口居中
 
-        frame.pack();
-
-        frame.setSize(600, 200);
-
-        int x = (Toolkit.getDefaultToolkit().getScreenSize().width - 600) / 2;
-        int y = (Toolkit.getDefaultToolkit().getScreenSize().height - 200) / 2;
-        frame.setLocation(x, y);
-    }
-
-    void show() {
-        frame.setVisible(true);
-    }
-
-    void dispose() {
-        frame.dispose();
+        setVisible(true);
     }
 
     public static void main(String args[]) throws InterruptedException {
-        S s = new S("你好");
-        s.show();
-        Thread.sleep(3000);
-//        s.dispose();
+        S s = new S("记载中，请稍候……");
+        Thread.sleep(8000);
+        s.dispose();
     }
 
 }

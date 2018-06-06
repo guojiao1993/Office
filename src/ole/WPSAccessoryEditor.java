@@ -72,7 +72,7 @@ public class WPSAccessoryEditor implements Runnable {
 
 	@Override
 	public void run() {
-		InformationDialog ldt = new InformationDialog("加载文件中，请稍后");
+		S ldt = new S("加载中，请稍后……");
 		display = new Display();
 		shell = new Shell(display);
 		shell.setText("BUCG");
