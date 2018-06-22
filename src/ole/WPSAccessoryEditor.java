@@ -75,8 +75,9 @@ public class WPSAccessoryEditor implements Runnable {
 		S ldt = new S("加载中，请稍后……");
 		display = new Display();
 		shell = new Shell(display);
-		shell.setText("BUCG");
-		setIcon();
+
+		shell.setText("OLE");
+//		setIcon();
 
 		shell.setLayout(new FillLayout());
 		shell.layout();
@@ -94,19 +95,24 @@ public class WPSAccessoryEditor implements Runnable {
 			wpsWrapper.setPicture("photo", photoPath);
 		}
 		// 写入表头内容
-		Set<Entry<String, String>> headValueEntrySet = headValueMap.entrySet();
-		for (Entry<String, String> entry : headValueEntrySet) {
-			wpsWrapper.setFiled(entry.getKey(), entry.getValue());
+		if(headValueMap != null) {
+			Set<Entry<String, String>> headValueEntrySet = headValueMap.entrySet();
+			for (Entry<String, String> entry : headValueEntrySet) {
+				wpsWrapper.setFiled(entry.getKey(), entry.getValue());
+			}
 		}
+
 		// 写入表体内容
-		Set<Entry<Integer, ArrayList<String[]>>> bodyValueEntrySet = bodyValueMap.entrySet();
-		for (Entry<Integer, ArrayList<String[]>> entry : bodyValueEntrySet) {
-			Integer key = entry.getKey();
-			ArrayList<String[]> valueList = entry.getValue();
-			if(valueList.size() > 0) {
-				wpsWrapper.addTableItems(key, false, valueList.get(0));
-				for (int i = 1; i < valueList.size(); i++) {
-					wpsWrapper.addTableItems(key, true, valueList.get(i));
+		if(bodyValueMap != null) {
+			Set<Entry<Integer, ArrayList<String[]>>> bodyValueEntrySet = bodyValueMap.entrySet();
+			for (Entry<Integer, ArrayList<String[]>> entry : bodyValueEntrySet) {
+				Integer key = entry.getKey();
+				ArrayList<String[]> valueList = entry.getValue();
+				if(valueList.size() > 0) {
+					wpsWrapper.addTableItems(key, false, valueList.get(0));
+					for (int i = 1; i < valueList.size(); i++) {
+						wpsWrapper.addTableItems(key, true, valueList.get(i));
+					}
 				}
 			}
 		}
@@ -120,8 +126,9 @@ public class WPSAccessoryEditor implements Runnable {
 		shell.open();
 		ldt.dispose();
 		while (!shell.isDisposed()) {
-			if (!display.readAndDispatch())
+			if (!display.readAndDispatch()) {
 				display.sleep();
+			}
 		}
 	}
 
@@ -242,7 +249,7 @@ public class WPSAccessoryEditor implements Runnable {
 				String otherFilePath = filedlg.open();
 				if(otherFilePath != null) {
 					if(!otherFilePath.endsWith(".doc")) {
-						otherFilePath += ".doc";
+						otherFilePath += ".pdf";
 					}
 					// 另存为新文档
 					wpsWrapper.saveDoc(otherFilePath);

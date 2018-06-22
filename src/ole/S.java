@@ -52,7 +52,7 @@ public class S extends JDialog{
     }
 
     public static void main(String args[]) throws InterruptedException {
-        S s = new S("记载中，请稍候……");
+        S s = new S("加载中，请稍候……");
         Thread.sleep(8000);
         s.dispose();
     }
