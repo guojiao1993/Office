@@ -1,0 +1,4866 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core"  xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve">
+	<o:DocumentProperties>
+		<o:Author>Alan</o:Author>
+		<o:LastAuthor>北有陈长生</o:LastAuthor>
+		<o:Created>2018-05-08T07:14:45Z</o:Created>
+		<o:LastSaved>2018-05-10T03:25:13Z</o:LastSaved>
+	</o:DocumentProperties>
+	<o:CustomDocumentProperties>
+		<o:KSOProductBuildVer dt:dt="string">2052-11.1.0.7460</o:KSOProductBuildVer>
+	</o:CustomDocumentProperties>
+	<w:fonts>
+		<w:defaultFonts w:ascii="Times New Roman" w:fareast="宋体" w:h-ansi="Times New Roman" w:cs="Times New Roman"/>
+		<w:font w:name="Times New Roman">
+			<w:panose-1 w:val="02020603050405020304"/>
+			<w:charset w:val="00"/>
+			<w:family w:val="Auto"/>
+			<w:pitch w:val="Default"/>
+			<w:sig w:usb-0="E0002EFF" w:usb-1="C000785B" w:usb-2="00000009" w:usb-3="00000000" w:csb-0="400001FF" w:csb-1="FFFF0000"/>
+		</w:font>
+		<w:font w:name="宋体">
+			<w:panose-1 w:val="02010600030101010101"/>
+			<w:charset w:val="86"/>
+			<w:family w:val="Auto"/>
+			<w:pitch w:val="Default"/>
+			<w:sig w:usb-0="00000003" w:usb-1="288F0000" w:usb-2="00000006" w:usb-3="00000000" w:csb-0="00040001" w:csb-1="00000000"/>
+		</w:font>
+		<w:font w:name="Wingdings">
+			<w:panose-1 w:val="05000000000000000000"/>
+			<w:charset w:val="02"/>
+			<w:family w:val="Auto"/>
+			<w:pitch w:val="Default"/>
+			<w:sig w:usb-0="00000000" w:usb-1="00000000" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="80000000" w:csb-1="00000000"/>
+		</w:font>
+		<w:font w:name="Arial">
+			<w:panose-1 w:val="020B0604020202020204"/>
+			<w:charset w:val="01"/>
+			<w:family w:val="SWiss"/>
+			<w:pitch w:val="Default"/>
+			<w:sig w:usb-0="E0002EFF" w:usb-1="C0007843" w:usb-2="00000009" w:usb-3="00000000" w:csb-0="400001FF" w:csb-1="FFFF0000"/>
+		</w:font>
+		<w:font w:name="黑体">
+			<w:panose-1 w:val="02010609060101010101"/>
+			<w:charset w:val="86"/>
+			<w:family w:val="Auto"/>
+			<w:pitch w:val="Default"/>
+			<w:sig w:usb-0="800002BF" w:usb-1="38CF7CFA" w:usb-2="00000016" w:usb-3="00000000" w:csb-0="00040001" w:csb-1="00000000"/>
+		</w:font>
+		<w:font w:name="Courier New">
+			<w:panose-1 w:val="02070309020205020404"/>
+			<w:charset w:val="01"/>
+			<w:family w:val="Modern"/>
+			<w:pitch w:val="Default"/>
+			<w:sig w:usb-0="E0002EFF" w:usb-1="C0007843" w:usb-2="00000009" w:usb-3="00000000" w:csb-0="400001FF" w:csb-1="FFFF0000"/>
+		</w:font>
+		<w:font w:name="Symbol">
+			<w:panose-1 w:val="05050102010706020507"/>
+			<w:charset w:val="02"/>
+			<w:family w:val="Roman"/>
+			<w:pitch w:val="Default"/>
+			<w:sig w:usb-0="00000000" w:usb-1="00000000" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="80000000" w:csb-1="00000000"/>
+		</w:font>
+		<w:font w:name="Calibri">
+			<w:panose-1 w:val="020F0502020204030204"/>
+			<w:charset w:val="00"/>
+			<w:family w:val="SWiss"/>
+			<w:pitch w:val="Default"/>
+			<w:sig w:usb-0="E0002AFF" w:usb-1="C000247B" w:usb-2="00000009" w:usb-3="00000000" w:csb-0="200001FF" w:csb-1="00000000"/>
+		</w:font>
+		<w:font w:name="Wingdings">
+			<w:panose-1 w:val="05000000000000000000"/>
+			<w:charset w:val="00"/>
+			<w:family w:val="Auto"/>
+			<w:pitch w:val="Default"/>
+			<w:sig w:usb-0="00000000" w:usb-1="00000000" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="80000000" w:csb-1="00000000"/>
+		</w:font>
+		<w:font w:name="Arial">
+			<w:panose-1 w:val="020B0604020202020204"/>
+			<w:charset w:val="00"/>
+			<w:family w:val="Auto"/>
+			<w:pitch w:val="Default"/>
+			<w:sig w:usb-0="E0002EFF" w:usb-1="C0007843" w:usb-2="00000009" w:usb-3="00000000" w:csb-0="400001FF" w:csb-1="FFFF0000"/>
+		</w:font>
+		<w:font w:name="Courier New">
+			<w:panose-1 w:val="02070309020205020404"/>
+			<w:charset w:val="00"/>
+			<w:family w:val="Auto"/>
+			<w:pitch w:val="Default"/>
+			<w:sig w:usb-0="E0002EFF" w:usb-1="C0007843" w:usb-2="00000009" w:usb-3="00000000" w:csb-0="400001FF" w:csb-1="FFFF0000"/>
+		</w:font>
+		<w:font w:name="Symbol">
+			<w:panose-1 w:val="05050102010706020507"/>
+			<w:charset w:val="00"/>
+			<w:family w:val="Auto"/>
+			<w:pitch w:val="Default"/>
+			<w:sig w:usb-0="00000000" w:usb-1="00000000" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="80000000" w:csb-1="00000000"/>
+		</w:font>
+	</w:fonts>
+	<w:styles>
+		<w:latentStyles w:defLockedState="off" w:latentStyleCount="260">
+			<w:lsdException w:name="Normal"/>
+			<w:lsdException w:name="heading 1"/>
+			<w:lsdException w:name="heading 2"/>
+			<w:lsdException w:name="heading 3"/>
+			<w:lsdException w:name="heading 4"/>
+			<w:lsdException w:name="heading 5"/>
+			<w:lsdException w:name="heading 6"/>
+			<w:lsdException w:name="heading 7"/>
+			<w:lsdException w:name="heading 8"/>
+			<w:lsdException w:name="heading 9"/>
+			<w:lsdException w:name="index 1"/>
+			<w:lsdException w:name="index 2"/>
+			<w:lsdException w:name="index 3"/>
+			<w:lsdException w:name="index 4"/>
+			<w:lsdException w:name="index 5"/>
+			<w:lsdException w:name="index 6"/>
+			<w:lsdException w:name="index 7"/>
+			<w:lsdException w:name="index 8"/>
+			<w:lsdException w:name="index 9"/>
+			<w:lsdException w:name="toc 1"/>
+			<w:lsdException w:name="toc 2"/>
+			<w:lsdException w:name="toc 3"/>
+			<w:lsdException w:name="toc 4"/>
+			<w:lsdException w:name="toc 5"/>
+			<w:lsdException w:name="toc 6"/>
+			<w:lsdException w:name="toc 7"/>
+			<w:lsdException w:name="toc 8"/>
+			<w:lsdException w:name="toc 9"/>
+			<w:lsdException w:name="Normal Indent"/>
+			<w:lsdException w:name="footnote text"/>
+			<w:lsdException w:name="annotation text"/>
+			<w:lsdException w:name="header"/>
+			<w:lsdException w:name="footer"/>
+			<w:lsdException w:name="index heading"/>
+			<w:lsdException w:name="caption"/>
+			<w:lsdException w:name="table of figures"/>
+			<w:lsdException w:name="envelope address"/>
+			<w:lsdException w:name="envelope return"/>
+			<w:lsdException w:name="footnote reference"/>
+			<w:lsdException w:name="annotation reference"/>
+			<w:lsdException w:name="line number"/>
+			<w:lsdException w:name="page number"/>
+			<w:lsdException w:name="endnote reference"/>
+			<w:lsdException w:name="endnote text"/>
+			<w:lsdException w:name="table of authorities"/>
+			<w:lsdException w:name="macro"/>
+			<w:lsdException w:name="toa heading"/>
+			<w:lsdException w:name="List"/>
+			<w:lsdException w:name="List Bullet"/>
+			<w:lsdException w:name="List Number"/>
+			<w:lsdException w:name="List 2"/>
+			<w:lsdException w:name="List 3"/>
+			<w:lsdException w:name="List 4"/>
+			<w:lsdException w:name="List 5"/>
+			<w:lsdException w:name="List Bullet 2"/>
+			<w:lsdException w:name="List Bullet 3"/>
+			<w:lsdException w:name="List Bullet 4"/>
+			<w:lsdException w:name="List Bullet 5"/>
+			<w:lsdException w:name="List Number 2"/>
+			<w:lsdException w:name="List Number 3"/>
+			<w:lsdException w:name="List Number 4"/>
+			<w:lsdException w:name="List Number 5"/>
+			<w:lsdException w:name="Title"/>
+			<w:lsdException w:name="Closing"/>
+			<w:lsdException w:name="Signature"/>
+			<w:lsdException w:name="Default Paragraph Font"/>
+			<w:lsdException w:name="Body Text"/>
+			<w:lsdException w:name="Body Text Indent"/>
+			<w:lsdException w:name="List Continue"/>
+			<w:lsdException w:name="List Continue 2"/>
+			<w:lsdException w:name="List Continue 3"/>
+			<w:lsdException w:name="List Continue 4"/>
+			<w:lsdException w:name="List Continue 5"/>
+			<w:lsdException w:name="Message Header"/>
+			<w:lsdException w:name="Subtitle"/>
+			<w:lsdException w:name="Salutation"/>
+			<w:lsdException w:name="Date"/>
+			<w:lsdException w:name="Body Text First Indent"/>
+			<w:lsdException w:name="Body Text First Indent 2"/>
+			<w:lsdException w:name="Note Heading"/>
+			<w:lsdException w:name="Body Text 2"/>
+			<w:lsdException w:name="Body Text 3"/>
+			<w:lsdException w:name="Body Text Indent 2"/>
+			<w:lsdException w:name="Body Text Indent 3"/>
+			<w:lsdException w:name="Block Text"/>
+			<w:lsdException w:name="Hyperlink"/>
+			<w:lsdException w:name="FollowedHyperlink"/>
+			<w:lsdException w:name="Strong"/>
+			<w:lsdException w:name="Emphasis"/>
+			<w:lsdException w:name="Document Map"/>
+			<w:lsdException w:name="Plain Text"/>
+			<w:lsdException w:name="E-mail Signature"/>
+			<w:lsdException w:name="Normal (Web)"/>
+			<w:lsdException w:name="HTML Acronym"/>
+			<w:lsdException w:name="HTML Address"/>
+			<w:lsdException w:name="HTML Cite"/>
+			<w:lsdException w:name="HTML Code"/>
+			<w:lsdException w:name="HTML Definition"/>
+			<w:lsdException w:name="HTML Keyboard"/>
+			<w:lsdException w:name="HTML Preformatted"/>
+			<w:lsdException w:name="HTML Sample"/>
+			<w:lsdException w:name="HTML Typewriter"/>
+			<w:lsdException w:name="HTML Variable"/>
+			<w:lsdException w:name="Normal Table"/>
+			<w:lsdException w:name="annotation subject"/>
+			<w:lsdException w:name="Table Simple 1"/>
+			<w:lsdException w:name="Table Simple 2"/>
+			<w:lsdException w:name="Table Simple 3"/>
+			<w:lsdException w:name="Table Classic 1"/>
+			<w:lsdException w:name="Table Classic 2"/>
+			<w:lsdException w:name="Table Classic 3"/>
+			<w:lsdException w:name="Table Classic 4"/>
+			<w:lsdException w:name="Table Colorful 1"/>
+			<w:lsdException w:name="Table Colorful 2"/>
+			<w:lsdException w:name="Table Colorful 3"/>
+			<w:lsdException w:name="Table Columns 1"/>
+			<w:lsdException w:name="Table Columns 2"/>
+			<w:lsdException w:name="Table Columns 3"/>
+			<w:lsdException w:name="Table Columns 4"/>
+			<w:lsdException w:name="Table Columns 5"/>
+			<w:lsdException w:name="Table Grid 1"/>
+			<w:lsdException w:name="Table Grid 2"/>
+			<w:lsdException w:name="Table Grid 3"/>
+			<w:lsdException w:name="Table Grid 4"/>
+			<w:lsdException w:name="Table Grid 5"/>
+			<w:lsdException w:name="Table Grid 6"/>
+			<w:lsdException w:name="Table Grid 7"/>
+			<w:lsdException w:name="Table Grid 8"/>
+			<w:lsdException w:name="Table List 1"/>
+			<w:lsdException w:name="Table List 2"/>
+			<w:lsdException w:name="Table List 3"/>
+			<w:lsdException w:name="Table List 4"/>
+			<w:lsdException w:name="Table List 5"/>
+			<w:lsdException w:name="Table List 6"/>
+			<w:lsdException w:name="Table List 7"/>
+			<w:lsdException w:name="Table List 8"/>
+			<w:lsdException w:name="Table 3D effects 1"/>
+			<w:lsdException w:name="Table 3D effects 2"/>
+			<w:lsdException w:name="Table 3D effects 3"/>
+			<w:lsdException w:name="Table Contemporary"/>
+			<w:lsdException w:name="Table Elegant"/>
+			<w:lsdException w:name="Table Professional"/>
+			<w:lsdException w:name="Table Subtle 1"/>
+			<w:lsdException w:name="Table Subtle 2"/>
+			<w:lsdException w:name="Table Web 1"/>
+			<w:lsdException w:name="Table Web 2"/>
+			<w:lsdException w:name="Table Web 3"/>
+			<w:lsdException w:name="Balloon Text"/>
+			<w:lsdException w:name="Table Grid"/>
+			<w:lsdException w:name="Table Theme"/>
+			<w:lsdException w:name="Light Shading"/>
+			<w:lsdException w:name="Light List"/>
+			<w:lsdException w:name="Light Grid"/>
+			<w:lsdException w:name="Medium Shading 1"/>
+			<w:lsdException w:name="Medium Shading 2"/>
+			<w:lsdException w:name="Medium List 1"/>
+			<w:lsdException w:name="Medium List 2"/>
+			<w:lsdException w:name="Medium Grid 1"/>
+			<w:lsdException w:name="Medium Grid 2"/>
+			<w:lsdException w:name="Medium Grid 3"/>
+			<w:lsdException w:name="Dark List"/>
+			<w:lsdException w:name="Colorful Shading"/>
+			<w:lsdException w:name="Colorful List"/>
+			<w:lsdException w:name="Colorful Grid"/>
+			<w:lsdException w:name="Light Shading Accent 1"/>
+			<w:lsdException w:name="Light List Accent 1"/>
+			<w:lsdException w:name="Light Grid Accent 1"/>
+			<w:lsdException w:name="Medium Shading 1 Accent 1"/>
+			<w:lsdException w:name="Medium Shading 2 Accent 1"/>
+			<w:lsdException w:name="Medium List 1 Accent 1"/>
+			<w:lsdException w:name="Medium List 2 Accent 1"/>
+			<w:lsdException w:name="Medium Grid 1 Accent 1"/>
+			<w:lsdException w:name="Medium Grid 2 Accent 1"/>
+			<w:lsdException w:name="Medium Grid 3 Accent 1"/>
+			<w:lsdException w:name="Dark List Accent 1"/>
+			<w:lsdException w:name="Colorful Shading Accent 1"/>
+			<w:lsdException w:name="Colorful List Accent 1"/>
+			<w:lsdException w:name="Colorful Grid Accent 1"/>
+			<w:lsdException w:name="Light Shading Accent 2"/>
+			<w:lsdException w:name="Light List Accent 2"/>
+			<w:lsdException w:name="Light Grid Accent 2"/>
+			<w:lsdException w:name="Medium Shading 1 Accent 2"/>
+			<w:lsdException w:name="Medium Shading 2 Accent 2"/>
+			<w:lsdException w:name="Medium List 1 Accent 2"/>
+			<w:lsdException w:name="Medium List 2 Accent 2"/>
+			<w:lsdException w:name="Medium Grid 1 Accent 2"/>
+			<w:lsdException w:name="Medium Grid 2 Accent 2"/>
+			<w:lsdException w:name="Medium Grid 3 Accent 2"/>
+			<w:lsdException w:name="Dark List Accent 2"/>
+			<w:lsdException w:name="Colorful Shading Accent 2"/>
+			<w:lsdException w:name="Colorful List Accent 2"/>
+			<w:lsdException w:name="Colorful Grid Accent 2"/>
+			<w:lsdException w:name="Light Shading Accent 3"/>
+			<w:lsdException w:name="Light List Accent 3"/>
+			<w:lsdException w:name="Light Grid Accent 3"/>
+			<w:lsdException w:name="Medium Shading 1 Accent 3"/>
+			<w:lsdException w:name="Medium Shading 2 Accent 3"/>
+			<w:lsdException w:name="Medium List 1 Accent 3"/>
+			<w:lsdException w:name="Medium List 2 Accent 3"/>
+			<w:lsdException w:name="Medium Grid 1 Accent 3"/>
+			<w:lsdException w:name="Medium Grid 2 Accent 3"/>
+			<w:lsdException w:name="Medium Grid 3 Accent 3"/>
+			<w:lsdException w:name="Dark List Accent 3"/>
+			<w:lsdException w:name="Colorful Shading Accent 3"/>
+			<w:lsdException w:name="Colorful List Accent 3"/>
+			<w:lsdException w:name="Colorful Grid Accent 3"/>
+			<w:lsdException w:name="Light Shading Accent 4"/>
+			<w:lsdException w:name="Light List Accent 4"/>
+			<w:lsdException w:name="Light Grid Accent 4"/>
+			<w:lsdException w:name="Medium Shading 1 Accent 4"/>
+			<w:lsdException w:name="Medium Shading 2 Accent 4"/>
+			<w:lsdException w:name="Medium List 1 Accent 4"/>
+			<w:lsdException w:name="Medium List 2 Accent 4"/>
+			<w:lsdException w:name="Medium Grid 1 Accent 4"/>
+			<w:lsdException w:name="Medium Grid 2 Accent 4"/>
+			<w:lsdException w:name="Medium Grid 3 Accent 4"/>
+			<w:lsdException w:name="Dark List Accent 4"/>
+			<w:lsdException w:name="Colorful Shading Accent 4"/>
+			<w:lsdException w:name="Colorful List Accent 4"/>
+			<w:lsdException w:name="Colorful Grid Accent 4"/>
+			<w:lsdException w:name="Light Shading Accent 5"/>
+			<w:lsdException w:name="Light List Accent 5"/>
+			<w:lsdException w:name="Light Grid Accent 5"/>
+			<w:lsdException w:name="Medium Shading 1 Accent 5"/>
+			<w:lsdException w:name="Medium Shading 2 Accent 5"/>
+			<w:lsdException w:name="Medium List 1 Accent 5"/>
+			<w:lsdException w:name="Medium List 2 Accent 5"/>
+			<w:lsdException w:name="Medium Grid 1 Accent 5"/>
+			<w:lsdException w:name="Medium Grid 2 Accent 5"/>
+			<w:lsdException w:name="Medium Grid 3 Accent 5"/>
+			<w:lsdException w:name="Dark List Accent 5"/>
+			<w:lsdException w:name="Colorful Shading Accent 5"/>
+			<w:lsdException w:name="Colorful List Accent 5"/>
+			<w:lsdException w:name="Colorful Grid Accent 5"/>
+			<w:lsdException w:name="Light Shading Accent 6"/>
+			<w:lsdException w:name="Light List Accent 6"/>
+			<w:lsdException w:name="Light Grid Accent 6"/>
+			<w:lsdException w:name="Medium Shading 1 Accent 6"/>
+			<w:lsdException w:name="Medium Shading 2 Accent 6"/>
+			<w:lsdException w:name="Medium List 1 Accent 6"/>
+			<w:lsdException w:name="Medium List 2 Accent 6"/>
+			<w:lsdException w:name="Medium Grid 1 Accent 6"/>
+			<w:lsdException w:name="Medium Grid 2 Accent 6"/>
+			<w:lsdException w:name="Medium Grid 3 Accent 6"/>
+			<w:lsdException w:name="Dark List Accent 6"/>
+			<w:lsdException w:name="Colorful Shading Accent 6"/>
+			<w:lsdException w:name="Colorful List Accent 6"/>
+			<w:lsdException w:name="Colorful Grid Accent 6"/>
+		</w:latentStyles>
+		<w:style w:type="paragraph" w:styleId="a1" w:default="on">
+			<w:name w:val="Normal"/>
+			<w:pPr>
+				<w:widowControl w:val="off"/>
+				<w:spacing w:before-lines="0" w:after-lines="0"/>
+				<w:jc w:val="both"/>
+			</w:pPr>
+			<w:rPr>
+				<w:rFonts w:ascii="Calibri" w:h-ansi="Calibri" w:fareast="宋体" w:hint="fareast"/>
+				<w:kern w:val="2"/>
+				<w:sz w:val="21"/>
+				<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+			</w:rPr>
+		</w:style>
+		<w:style w:type="character" w:styleId="a4" w:default="on">
+			<w:name w:val="Default Paragraph Font"/>
+			<w:semiHidden/>
+			<w:rPr>
+				<w:rFonts w:hint="default"/>
+				<w:sz w:val="24"/>
+			</w:rPr>
+		</w:style>
+		<w:style w:type="table" w:styleId="a6" w:default="on">
+			<w:name w:val="Normal Table"/>
+			<w:semiHidden/>
+			<w:tblPr>
+				<w:tblCellMar>
+					<w:top w:w="0" w:type="dxa"/>
+					<w:left w:w="108" w:type="dxa"/>
+					<w:bottom w:w="0" w:type="dxa"/>
+					<w:right w:w="108" w:type="dxa"/>
+				</w:tblCellMar>
+			</w:tblPr>
+		</w:style>
+		<w:style w:type="paragraph" w:styleId="a2">
+			<w:name w:val="footer"/>
+			<w:basedOn w:val="a1"/>
+			<w:link w:val="a9"/>
+			<w:pPr>
+				<w:snapToGrid w:val="off"/>
+				<w:spacing w:before-lines="0" w:after-lines="0"/>
+				<w:jc w:val="left"/>
+			</w:pPr>
+			<w:rPr>
+				<w:rFonts w:hint="fareast"/>
+				<w:sz w:val="18"/>
+			</w:rPr>
+		</w:style>
+		<w:style w:type="paragraph" w:styleId="a3">
+			<w:name w:val="header"/>
+			<w:basedOn w:val="a1"/>
+			<w:link w:val="a8"/>
+			<w:pPr>
+				<w:pBdr>
+					<w:bottom w:val="single" w:sz="6" wx:bdrwidth="15" w:space="1" w:color="auto"/>
+				</w:pBdr>
+				<w:snapToGrid w:val="off"/>
+				<w:spacing w:before-lines="0" w:after-lines="0"/>
+				<w:jc w:val="center"/>
+			</w:pPr>
+			<w:rPr>
+				<w:rFonts w:hint="fareast"/>
+				<w:sz w:val="18"/>
+			</w:rPr>
+		</w:style>
+		<w:style w:type="character" w:styleId="a5">
+			<w:name w:val="Hyperlink"/>
+			<w:basedOn w:val="a4"/>
+			<w:rPr>
+				<w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:fareast="宋体" w:hint="default"/>
+				<w:color w:val="0000FF"/>
+				<w:sz w:val="24"/>
+				<w:u w:val="single"/>
+			</w:rPr>
+		</w:style>
+		<w:style w:type="table" w:styleId="a7">
+			<w:name w:val="Table Grid"/>
+			<w:basedOn w:val="a6"/>
+			<w:pPr>
+				<w:pStyle w:val="a6"/>
+				<w:widowControl w:val="off"/>
+				<w:jc w:val="both"/>
+			</w:pPr>
+			<w:tblPr>
+				<w:tblBorders>
+					<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+					<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+					<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+					<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+					<w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+					<w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+				</w:tblBorders>
+				<w:tblCellMar>
+					<w:top w:w="0" w:type="dxa"/>
+					<w:left w:w="108" w:type="dxa"/>
+					<w:bottom w:w="0" w:type="dxa"/>
+					<w:right w:w="108" w:type="dxa"/>
+				</w:tblCellMar>
+			</w:tblPr>
+		</w:style>
+		<w:style w:type="character" w:styleId="a8">
+			<w:name w:val="页眉 Char"/>
+			<w:basedOn w:val="a4"/>
+			<w:link w:val="a3"/>
+			<w:locked/>
+			<w:rPr>
+				<w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:fareast="宋体" w:hint="default"/>
+				<w:kern w:val="2"/>
+				<w:sz w:val="18"/>
+			</w:rPr>
+		</w:style>
+		<w:style w:type="character" w:styleId="a9">
+			<w:name w:val="页脚 Char"/>
+			<w:basedOn w:val="a4"/>
+			<w:link w:val="a2"/>
+			<w:locked/>
+			<w:rPr>
+				<w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:fareast="宋体" w:hint="default"/>
+				<w:kern w:val="2"/>
+				<w:sz w:val="18"/>
+			</w:rPr>
+		</w:style>
+	</w:styles>
+	<w:bgPict>
+		<w:background w:bgcolor="#FFFFFF"/>
+		<v:background id="_x0000_s1025">
+			<v:fill on="t" color2="#FFFFFF" focussize="0,0"/>
+		</v:background>
+	</w:bgPict>
+	<w:docPr>
+		<w:view w:val="print"/>
+		<w:zoom w:percent="100"/>
+		<w:characterSpacingControl w:val="CompressPunctuation"/>
+		<w:documentProtection w:enforcement="off"/>
+		<w:doNotEmbedSystemFonts/>
+		<w:bordersDontSurroundHeader/>
+		<w:bordersDontSurroundFooter/>
+		<w:defaultTabStop w:val="420"/>
+		<w:drawingGridVerticalSpacing w:val="156"/>
+		<w:displayHorizontalDrawingGridEvery w:val="1"/>
+		<w:displayVerticalDrawingGridEvery w:val="1"/>
+		<w:compat>
+			<w:adjustLineHeightInTable/>
+			<w:ulTrailSpace/>
+			<w:doNotExpandShiftReturn/>
+			<w:balanceSingleByteDoubleByteWidth/>
+			<w:useFELayout/>
+			<w:spaceForUL/>
+			<w:wrapTextWithPunct/>
+			<w:breakWrappedTables/>
+			<w:useAsianBreakRules/>
+			<w:dontGrowAutofit/>
+			<w:useFELayout/>
+		</w:compat>
+	</w:docPr>
+	<w:body>
+		<wx:sect>
+			<w:p>
+				<w:pPr>
+					<w:spacing w:before-lines="0" w:after-lines="0"/>
+					<w:jc w:val="center"/>
+					<w:rPr>
+						<w:rFonts w:fareast="Times New Roman" w:hint="default"/>
+						<w:b/>
+						<w:sz w:val="32"/>
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast"/>
+						<w:b/>
+						<w:sz w:val="32"/>
+					</w:rPr>
+					<w:t>人员基本情况表</w:t>
+				</w:r>
+			</w:p>
+			<w:tbl>
+				<w:tblPr>
+					<w:tblW w:w="8522" w:type="dxa"/>
+					<w:tblInd w:w="0" w:type="dxa"/>
+					<w:tblBorders>
+						<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+						<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+						<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+						<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+						<w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+						<w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+					</w:tblBorders>
+					<w:tblLayout w:type="Fixed"/>
+					<w:tblCellMar>
+						<w:top w:w="0" w:type="dxa"/>
+						<w:left w:w="108" w:type="dxa"/>
+						<w:bottom w:w="0" w:type="dxa"/>
+						<w:right w:w="108" w:type="dxa"/>
+					</w:tblCellMar>
+				</w:tblPr>
+				<w:tblGrid>
+					<w:gridCol w:w="1381"/>
+					<w:gridCol w:w="1460"/>
+					<w:gridCol w:w="1120"/>
+					<w:gridCol w:w="1720"/>
+					<w:gridCol w:w="1121"/>
+					<w:gridCol w:w="1720"/>
+				</w:tblGrid>
+				<w:tr>
+					<w:tblPrEx>
+						<w:tblBorders>
+							<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+						</w:tblBorders>
+						<w:tblCellMar>
+							<w:top w:w="0" w:type="dxa"/>
+							<w:left w:w="108" w:type="dxa"/>
+							<w:bottom w:w="0" w:type="dxa"/>
+							<w:right w:w="108" w:type="dxa"/>
+						</w:tblCellMar>
+					</w:tblPrEx>
+					<w:trPr/>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1381" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:fareast="Times New Roman" w:hint="default"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>姓名</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1460" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>陈代华</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1120" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:fareast="Times New Roman" w:hint="default"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>性别</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1720" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="default"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t></w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1121" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:fareast="Times New Roman" w:hint="default"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>出生年月</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1720" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="default"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>1963-02-19</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+				</w:tr>
+				<w:tr>
+					<w:tblPrEx>
+						<w:tblBorders>
+							<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+						</w:tblBorders>
+						<w:tblCellMar>
+							<w:top w:w="0" w:type="dxa"/>
+							<w:left w:w="108" w:type="dxa"/>
+							<w:bottom w:w="0" w:type="dxa"/>
+							<w:right w:w="108" w:type="dxa"/>
+						</w:tblCellMar>
+					</w:tblPrEx>
+					<w:trPr>
+						<w:trHeight w:val="629" w:h-rule="atLeast"/>
+					</w:trPr>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1381" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>民族</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1460" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>汉族</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1120" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>政治面貌</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1720" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="default"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>群众</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1121" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>血型</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1720" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t></w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+				</w:tr>
+				<w:tr>
+					<w:tblPrEx>
+						<w:tblBorders>
+							<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+						</w:tblBorders>
+						<w:tblCellMar>
+							<w:top w:w="0" w:type="dxa"/>
+							<w:left w:w="108" w:type="dxa"/>
+							<w:bottom w:w="0" w:type="dxa"/>
+							<w:right w:w="108" w:type="dxa"/>
+						</w:tblCellMar>
+					</w:tblPrEx>
+					<w:trPr/>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1381" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:fareast="Times New Roman" w:hint="default"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>籍贯</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1460" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>安徽省宣城市</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1120" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:fareast="Times New Roman" w:hint="default"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>户口所在地</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1720" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="default"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>北京市朝阳区</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1121" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:fareast="Times New Roman" w:hint="default"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>档案所在地</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1720" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>北京市西城区</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+				</w:tr>
+				<w:tr>
+					<w:tblPrEx>
+						<w:tblBorders>
+							<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+						</w:tblBorders>
+						<w:tblCellMar>
+							<w:top w:w="0" w:type="dxa"/>
+							<w:left w:w="108" w:type="dxa"/>
+							<w:bottom w:w="0" w:type="dxa"/>
+							<w:right w:w="108" w:type="dxa"/>
+						</w:tblCellMar>
+					</w:tblPrEx>
+					<w:trPr/>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1381" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:fareast="Times New Roman" w:hint="default"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>婚姻状况</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1460" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="default"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>已婚</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1120" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:fareast="Times New Roman" w:hint="default"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>健康状况</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1720" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="default"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>健康或良好</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1121" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:fareast="Times New Roman" w:hint="default"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>参加工作时间</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1720" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>1984-07-01</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+				</w:tr>
+				<w:tr>
+					<w:tblPrEx>
+						<w:tblBorders>
+							<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+						</w:tblBorders>
+						<w:tblCellMar>
+							<w:top w:w="0" w:type="dxa"/>
+							<w:left w:w="108" w:type="dxa"/>
+							<w:bottom w:w="0" w:type="dxa"/>
+							<w:right w:w="108" w:type="dxa"/>
+						</w:tblCellMar>
+					</w:tblPrEx>
+					<w:trPr/>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1381" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:fareast="Times New Roman" w:hint="default"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>职称</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1460" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t></w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1120" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>注册执业资格</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1720" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="default"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t></w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1121" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="default"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>加入集团时间</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1720" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="default"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>1984-07-01</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+				</w:tr>
+				<w:tr>
+					<w:tblPrEx>
+						<w:tblBorders>
+							<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+						</w:tblBorders>
+						<w:tblCellMar>
+							<w:top w:w="0" w:type="dxa"/>
+							<w:left w:w="108" w:type="dxa"/>
+							<w:bottom w:w="0" w:type="dxa"/>
+							<w:right w:w="108" w:type="dxa"/>
+						</w:tblCellMar>
+					</w:tblPrEx>
+					<w:trPr/>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1381" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>公司</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1460" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="default"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>北京城建集团有限责任公司</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1120" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:fareast="Times New Roman" w:hint="default"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>所在部门</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1720" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="default"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>集团公司领导班子</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1121" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:fareast="Times New Roman" w:hint="default"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>行政职务</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1720" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="default"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>董事长</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+				</w:tr>
+				<w:tr>
+					<w:tblPrEx>
+						<w:tblBorders>
+							<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+							<w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+						</w:tblBorders>
+						<w:tblCellMar>
+							<w:top w:w="0" w:type="dxa"/>
+							<w:left w:w="108" w:type="dxa"/>
+							<w:bottom w:w="0" w:type="dxa"/>
+							<w:right w:w="108" w:type="dxa"/>
+						</w:tblCellMar>
+					</w:tblPrEx>
+					<w:trPr/>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1381" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:fareast="Times New Roman" w:hint="default"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>身份证号码</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="4300" w:type="dxa"/>
+							<w:gridSpan w:val="3"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:fareast="Times New Roman" w:hint="default"/>
+									<w:color w:val="0000FF"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>110105196302195457</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1121" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="center"/>
+								<w:rPr>
+									<w:rFonts w:fareast="Times New Roman" w:hint="default"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:b/>
+									<w:sz w:val="24"/>
+								</w:rPr>
+								<w:t>办公电话</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1720" w:type="dxa"/>
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="000000"/>
+								<w:tl2br w:val="nil"/>
+								<w:tr2bl w:val="nil"/>
+							</w:tcBorders>
+							<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+							<w:vAlign w:val="top"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:rPr>
+									<w:rFonts w:hint="default"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>62091199</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+				</w:tr>
+			</w:tbl>
+			<w:p>
+				<w:pPr>
+					<w:rPr>
+						<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+						<w:sz w:val="24"/>
+						<w:lang w:fareast="ZH-CN"/>
+					</w:rPr>
+				</w:pPr>
+			</w:p>
+			<w:p>
+				<w:pPr>
+					<w:rPr>
+						<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+						<w:sz w:val="24"/>
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+						<w:sz w:val="24"/>
+						<w:lang w:fareast="ZH-CN"/>
+					</w:rPr>
+					<w:t>教育经历</w:t>
+				</w:r>
+			</w:p>
+			<w:tbl>
+				<w:tblPr>
+					<w:tblStyle w:val="a7"/>
+					<w:tblW w:w="8521" w:type="dxa"/>
+					<w:tblInd w:w="0" w:type="dxa"/>
+					<w:tblBorders>
+						<w:top w:val="nil"/>
+						<w:left w:val="nil"/>
+						<w:bottom w:val="nil"/>
+						<w:right w:val="nil"/>
+						<w:insideH w:val="nil"/>
+						<w:insideV w:val="nil"/>
+					</w:tblBorders>
+					<w:tblLayout w:type="Fixed"/>
+					<w:tblCellMar>
+						<w:top w:w="0" w:type="dxa"/>
+						<w:left w:w="108" w:type="dxa"/>
+						<w:bottom w:w="0" w:type="dxa"/>
+						<w:right w:w="108" w:type="dxa"/>
+					</w:tblCellMar>
+				</w:tblPr>
+				<w:tblGrid>
+					<w:gridCol w:w="1704"/>
+					<w:gridCol w:w="1704"/>
+					<w:gridCol w:w="1704"/>
+					<w:gridCol w:w="1704"/>
+					<w:gridCol w:w="1705"/>
+				</w:tblGrid>
+				<w:tr>
+					<w:tblPrEx>
+						<w:tblBorders>
+							<w:top w:val="nil"/>
+							<w:left w:val="nil"/>
+							<w:bottom w:val="nil"/>
+							<w:right w:val="nil"/>
+							<w:insideH w:val="nil"/>
+							<w:insideV w:val="nil"/>
+						</w:tblBorders>
+						<w:tblCellMar>
+							<w:top w:w="0" w:type="dxa"/>
+							<w:left w:w="108" w:type="dxa"/>
+							<w:bottom w:w="0" w:type="dxa"/>
+							<w:right w:w="108" w:type="dxa"/>
+						</w:tblCellMar>
+					</w:tblPrEx>
+					<w:trPr/>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1704" w:type="dxa"/>
+							<w:shd w:val="clear" w:color="auto" w:fill="92D050"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:widowControl w:val="off"/>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="both"/>
+								<w:rPr>
+									<w:rFonts w:fareast="宋体" w:hint="fareast"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>入学时间</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1704" w:type="dxa"/>
+							<w:shd w:val="clear" w:color="auto" w:fill="92D050"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:widowControl w:val="off"/>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="both"/>
+								<w:rPr>
+									<w:rFonts w:fareast="宋体" w:hint="fareast"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>毕业时间</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1704" w:type="dxa"/>
+							<w:shd w:val="clear" w:color="auto" w:fill="92D050"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:widowControl w:val="off"/>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="both"/>
+								<w:rPr>
+									<w:rFonts w:fareast="宋体" w:hint="fareast"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>毕业学校</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1704" w:type="dxa"/>
+							<w:shd w:val="clear" w:color="auto" w:fill="92D050"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:widowControl w:val="off"/>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="both"/>
+								<w:rPr>
+									<w:rFonts w:fareast="宋体" w:hint="fareast"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>所学专业</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1705" w:type="dxa"/>
+							<w:shd w:val="clear" w:color="auto" w:fill="92D050"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:widowControl w:val="off"/>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="both"/>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>学历</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+				</w:tr>
+					<w:tr>
+						<w:tblPrEx>
+							<w:tblBorders>
+								<w:top w:val="nil"/>
+								<w:left w:val="nil"/>
+								<w:bottom w:val="nil"/>
+								<w:right w:val="nil"/>
+								<w:insideH w:val="nil"/>
+								<w:insideV w:val="nil"/>
+							</w:tblBorders>
+							<w:tblCellMar>
+								<w:top w:w="0" w:type="dxa"/>
+								<w:left w:w="108" w:type="dxa"/>
+								<w:bottom w:w="0" w:type="dxa"/>
+								<w:right w:w="108" w:type="dxa"/>
+							</w:tblCellMar>
+						</w:tblPrEx>
+						<w:trPr/>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>1981-07-01</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>1984-07-01</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>南京建筑工程学院</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>工程测量</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>本科</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+					</w:tr>
+					<w:tr>
+						<w:tblPrEx>
+							<w:tblBorders>
+								<w:top w:val="nil"/>
+								<w:left w:val="nil"/>
+								<w:bottom w:val="nil"/>
+								<w:right w:val="nil"/>
+								<w:insideH w:val="nil"/>
+								<w:insideV w:val="nil"/>
+							</w:tblBorders>
+							<w:tblCellMar>
+								<w:top w:w="0" w:type="dxa"/>
+								<w:left w:w="108" w:type="dxa"/>
+								<w:bottom w:w="0" w:type="dxa"/>
+								<w:right w:w="108" w:type="dxa"/>
+							</w:tblCellMar>
+						</w:tblPrEx>
+						<w:trPr/>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>1994-07-01</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>1997-07-01</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>天津大学</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>投资经济</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>研究生</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+					</w:tr>
+					<w:tr>
+						<w:tblPrEx>
+							<w:tblBorders>
+								<w:top w:val="nil"/>
+								<w:left w:val="nil"/>
+								<w:bottom w:val="nil"/>
+								<w:right w:val="nil"/>
+								<w:insideH w:val="nil"/>
+								<w:insideV w:val="nil"/>
+							</w:tblBorders>
+							<w:tblCellMar>
+								<w:top w:w="0" w:type="dxa"/>
+								<w:left w:w="108" w:type="dxa"/>
+								<w:bottom w:w="0" w:type="dxa"/>
+								<w:right w:w="108" w:type="dxa"/>
+							</w:tblCellMar>
+						</w:tblPrEx>
+						<w:trPr/>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>1998-09-01</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>1999-09-01</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>首都经贸贸易大学</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>会计学</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>本科</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+					</w:tr>
+			</w:tbl>
+			<w:p>
+				<w:pPr>
+					<w:rPr>
+						<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+						<w:sz w:val="24"/>
+					</w:rPr>
+				</w:pPr>
+			</w:p>
+			<w:p>
+				<w:pPr>
+					<w:rPr>
+						<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+						<w:sz w:val="24"/>
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+						<w:sz w:val="24"/>
+					</w:rPr>
+					<w:t>工作经历</w:t>
+				</w:r>
+			</w:p>
+			<w:tbl>
+				<w:tblPr>
+					<w:tblStyle w:val="a7"/>
+					<w:tblW w:w="8522" w:type="dxa"/>
+					<w:tblInd w:w="0" w:type="dxa"/>
+					<w:tblBorders>
+						<w:top w:val="nil"/>
+						<w:left w:val="nil"/>
+						<w:bottom w:val="nil"/>
+						<w:right w:val="nil"/>
+						<w:insideH w:val="nil"/>
+						<w:insideV w:val="nil"/>
+					</w:tblBorders>
+					<w:tblLayout w:type="Fixed"/>
+					<w:tblCellMar>
+						<w:top w:w="0" w:type="dxa"/>
+						<w:left w:w="108" w:type="dxa"/>
+						<w:bottom w:w="0" w:type="dxa"/>
+						<w:right w:w="108" w:type="dxa"/>
+					</w:tblCellMar>
+				</w:tblPr>
+				<w:tblGrid>
+					<w:gridCol w:w="1704"/>
+					<w:gridCol w:w="1704"/>
+					<w:gridCol w:w="1704"/>
+					<w:gridCol w:w="1705"/>
+					<w:gridCol w:w="1705"/>
+				</w:tblGrid>
+				<w:tr>
+					<w:tblPrEx>
+						<w:tblBorders>
+							<w:top w:val="nil"/>
+							<w:left w:val="nil"/>
+							<w:bottom w:val="nil"/>
+							<w:right w:val="nil"/>
+							<w:insideH w:val="nil"/>
+							<w:insideV w:val="nil"/>
+						</w:tblBorders>
+						<w:tblCellMar>
+							<w:top w:w="0" w:type="dxa"/>
+							<w:left w:w="108" w:type="dxa"/>
+							<w:bottom w:w="0" w:type="dxa"/>
+							<w:right w:w="108" w:type="dxa"/>
+						</w:tblCellMar>
+					</w:tblPrEx>
+					<w:trPr/>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1704" w:type="dxa"/>
+							<w:shd w:val="clear" w:color="auto" w:fill="FFC000"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:widowControl w:val="off"/>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="both"/>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:fareast="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>开始时间</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1704" w:type="dxa"/>
+							<w:shd w:val="clear" w:color="auto" w:fill="FFC000"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:widowControl w:val="off"/>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="both"/>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:fareast="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>结束时间</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1704" w:type="dxa"/>
+							<w:shd w:val="clear" w:color="auto" w:fill="FFC000"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:widowControl w:val="off"/>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="both"/>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:fareast="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>工作单位</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1705" w:type="dxa"/>
+							<w:shd w:val="clear" w:color="auto" w:fill="FFC000"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:widowControl w:val="off"/>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="both"/>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:fareast="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>部门</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1705" w:type="dxa"/>
+							<w:shd w:val="clear" w:color="auto" w:fill="FFC000"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:widowControl w:val="off"/>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="both"/>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:fareast="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>工作岗位</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+				</w:tr>
+					<w:tr>
+						<w:tblPrEx>
+							<w:tblBorders>
+								<w:top w:val="nil"/>
+								<w:left w:val="nil"/>
+								<w:bottom w:val="nil"/>
+								<w:right w:val="nil"/>
+								<w:insideH w:val="nil"/>
+								<w:insideV w:val="nil"/>
+							</w:tblBorders>
+							<w:tblCellMar>
+								<w:top w:w="0" w:type="dxa"/>
+								<w:left w:w="108" w:type="dxa"/>
+								<w:bottom w:w="0" w:type="dxa"/>
+								<w:right w:w="108" w:type="dxa"/>
+							</w:tblCellMar>
+						</w:tblPrEx>
+						<w:trPr/>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>1984-07-01</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>1992-08-15</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>北京建筑工程学校</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>培训部</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>教师</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+					</w:tr>
+					<w:tr>
+						<w:tblPrEx>
+							<w:tblBorders>
+								<w:top w:val="nil"/>
+								<w:left w:val="nil"/>
+								<w:bottom w:val="nil"/>
+								<w:right w:val="nil"/>
+								<w:insideH w:val="nil"/>
+								<w:insideV w:val="nil"/>
+							</w:tblBorders>
+							<w:tblCellMar>
+								<w:top w:w="0" w:type="dxa"/>
+								<w:left w:w="108" w:type="dxa"/>
+								<w:bottom w:w="0" w:type="dxa"/>
+								<w:right w:w="108" w:type="dxa"/>
+							</w:tblCellMar>
+						</w:tblPrEx>
+						<w:trPr/>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>1992-08-16</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>1999-10-06</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>北京城建培训中心</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>领导层</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>副校长</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+					</w:tr>
+					<w:tr>
+						<w:tblPrEx>
+							<w:tblBorders>
+								<w:top w:val="nil"/>
+								<w:left w:val="nil"/>
+								<w:bottom w:val="nil"/>
+								<w:right w:val="nil"/>
+								<w:insideH w:val="nil"/>
+								<w:insideV w:val="nil"/>
+							</w:tblBorders>
+							<w:tblCellMar>
+								<w:top w:w="0" w:type="dxa"/>
+								<w:left w:w="108" w:type="dxa"/>
+								<w:bottom w:w="0" w:type="dxa"/>
+								<w:right w:w="108" w:type="dxa"/>
+							</w:tblCellMar>
+						</w:tblPrEx>
+						<w:trPr/>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>1999-10-07</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>2000-08-18</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>北京城建三建设工程有限公司</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>领导层</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>副经理</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+					</w:tr>
+					<w:tr>
+						<w:tblPrEx>
+							<w:tblBorders>
+								<w:top w:val="nil"/>
+								<w:left w:val="nil"/>
+								<w:bottom w:val="nil"/>
+								<w:right w:val="nil"/>
+								<w:insideH w:val="nil"/>
+								<w:insideV w:val="nil"/>
+							</w:tblBorders>
+							<w:tblCellMar>
+								<w:top w:w="0" w:type="dxa"/>
+								<w:left w:w="108" w:type="dxa"/>
+								<w:bottom w:w="0" w:type="dxa"/>
+								<w:right w:w="108" w:type="dxa"/>
+							</w:tblCellMar>
+						</w:tblPrEx>
+						<w:trPr/>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>2000-08-29</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>2003-10-30</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>北京城建三建设工程有限公司</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>领导层</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>董事、副董事长、经理、党委副书记</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+					</w:tr>
+					<w:tr>
+						<w:tblPrEx>
+							<w:tblBorders>
+								<w:top w:val="nil"/>
+								<w:left w:val="nil"/>
+								<w:bottom w:val="nil"/>
+								<w:right w:val="nil"/>
+								<w:insideH w:val="nil"/>
+								<w:insideV w:val="nil"/>
+							</w:tblBorders>
+							<w:tblCellMar>
+								<w:top w:w="0" w:type="dxa"/>
+								<w:left w:w="108" w:type="dxa"/>
+								<w:bottom w:w="0" w:type="dxa"/>
+								<w:right w:w="108" w:type="dxa"/>
+							</w:tblCellMar>
+						</w:tblPrEx>
+						<w:trPr/>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>2003-11-04</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>2005-05-20</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>北京城建道桥工程有限公司</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>领导层</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>董事、董事长、党委书记</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+					</w:tr>
+					<w:tr>
+						<w:tblPrEx>
+							<w:tblBorders>
+								<w:top w:val="nil"/>
+								<w:left w:val="nil"/>
+								<w:bottom w:val="nil"/>
+								<w:right w:val="nil"/>
+								<w:insideH w:val="nil"/>
+								<w:insideV w:val="nil"/>
+							</w:tblBorders>
+							<w:tblCellMar>
+								<w:top w:w="0" w:type="dxa"/>
+								<w:left w:w="108" w:type="dxa"/>
+								<w:bottom w:w="0" w:type="dxa"/>
+								<w:right w:w="108" w:type="dxa"/>
+							</w:tblCellMar>
+						</w:tblPrEx>
+						<w:trPr/>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>2006-05-23</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>2006-08-26</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>新城顺城公司经理兼北京城建道桥工程有限公司</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>领导层</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>董事、董事长、党委书记</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+					</w:tr>
+					<w:tr>
+						<w:tblPrEx>
+							<w:tblBorders>
+								<w:top w:val="nil"/>
+								<w:left w:val="nil"/>
+								<w:bottom w:val="nil"/>
+								<w:right w:val="nil"/>
+								<w:insideH w:val="nil"/>
+								<w:insideV w:val="nil"/>
+							</w:tblBorders>
+							<w:tblCellMar>
+								<w:top w:w="0" w:type="dxa"/>
+								<w:left w:w="108" w:type="dxa"/>
+								<w:bottom w:w="0" w:type="dxa"/>
+								<w:right w:w="108" w:type="dxa"/>
+							</w:tblCellMar>
+						</w:tblPrEx>
+						<w:trPr/>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>2006-08-25</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>2012-05-22</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>北京城建集团有限责任公司</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>领导层</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>副总经理、党委常委兼股份公司经理、党委副书记</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+					</w:tr>
+					<w:tr>
+						<w:tblPrEx>
+							<w:tblBorders>
+								<w:top w:val="nil"/>
+								<w:left w:val="nil"/>
+								<w:bottom w:val="nil"/>
+								<w:right w:val="nil"/>
+								<w:insideH w:val="nil"/>
+								<w:insideV w:val="nil"/>
+							</w:tblBorders>
+							<w:tblCellMar>
+								<w:top w:w="0" w:type="dxa"/>
+								<w:left w:w="108" w:type="dxa"/>
+								<w:bottom w:w="0" w:type="dxa"/>
+								<w:right w:w="108" w:type="dxa"/>
+							</w:tblCellMar>
+						</w:tblPrEx>
+						<w:trPr/>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>2012-05-23</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>2015-03-28</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>北京城建集团有限责任公司</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>领导层</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>总经理</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+					</w:tr>
+					<w:tr>
+						<w:tblPrEx>
+							<w:tblBorders>
+								<w:top w:val="nil"/>
+								<w:left w:val="nil"/>
+								<w:bottom w:val="nil"/>
+								<w:right w:val="nil"/>
+								<w:insideH w:val="nil"/>
+								<w:insideV w:val="nil"/>
+							</w:tblBorders>
+							<w:tblCellMar>
+								<w:top w:w="0" w:type="dxa"/>
+								<w:left w:w="108" w:type="dxa"/>
+								<w:bottom w:w="0" w:type="dxa"/>
+								<w:right w:w="108" w:type="dxa"/>
+							</w:tblCellMar>
+						</w:tblPrEx>
+						<w:trPr/>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>2015-03-31</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>2015-10-08</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>北京城建集团有限责任公司</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>领导层</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>董事长兼总经理</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+					</w:tr>
+					<w:tr>
+						<w:tblPrEx>
+							<w:tblBorders>
+								<w:top w:val="nil"/>
+								<w:left w:val="nil"/>
+								<w:bottom w:val="nil"/>
+								<w:right w:val="nil"/>
+								<w:insideH w:val="nil"/>
+								<w:insideV w:val="nil"/>
+							</w:tblBorders>
+							<w:tblCellMar>
+								<w:top w:w="0" w:type="dxa"/>
+								<w:left w:w="108" w:type="dxa"/>
+								<w:bottom w:w="0" w:type="dxa"/>
+								<w:right w:w="108" w:type="dxa"/>
+							</w:tblCellMar>
+						</w:tblPrEx>
+						<w:trPr/>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>2015-10-09</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t></w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1704" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>北京城建集团有限责任公司</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>领导层</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+						<w:tc>
+							<w:tcPr>
+								<w:tcW w:w="1705" w:type="dxa"/>
+								<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+								<w:vAlign w:val="top"/>
+							</w:tcPr>
+							<w:p>
+								<w:pPr>
+									<w:widowControl w:val="off"/>
+									<w:spacing w:before-lines="0" w:after-lines="0"/>
+									<w:jc w:val="both"/>
+									<w:rPr>
+										<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+										<w:sz w:val="24"/>
+										<w:vertAlign w:val="baseline"/>
+									</w:rPr>
+								</w:pPr>
+								<w:r>
+									<w:rPr>
+										<w:rFonts w:hint="fareast"/>
+										<w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+									</w:rPr>
+									<w:t>党委书记兼董事长</w:t>
+								</w:r>
+							</w:p>
+						</w:tc>
+					</w:tr>
+			</w:tbl>
+			<w:p>
+				<w:pPr>
+					<w:rPr>
+						<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+						<w:sz w:val="24"/>
+					</w:rPr>
+				</w:pPr>
+			</w:p>
+			<w:p>
+				<w:pPr>
+					<w:rPr>
+						<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+						<w:sz w:val="24"/>
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+						<w:sz w:val="24"/>
+					</w:rPr>
+					<w:t>家庭成员</w:t>
+				</w:r>
+			</w:p>
+			<w:tbl>
+				<w:tblPr>
+					<w:tblStyle w:val="a7"/>
+					<w:tblW w:w="8521" w:type="dxa"/>
+					<w:tblInd w:w="0" w:type="dxa"/>
+					<w:tblBorders>
+						<w:top w:val="nil"/>
+						<w:left w:val="nil"/>
+						<w:bottom w:val="nil"/>
+						<w:right w:val="nil"/>
+						<w:insideH w:val="nil"/>
+						<w:insideV w:val="nil"/>
+					</w:tblBorders>
+					<w:tblLayout w:type="Fixed"/>
+					<w:tblCellMar>
+						<w:top w:w="0" w:type="dxa"/>
+						<w:left w:w="108" w:type="dxa"/>
+						<w:bottom w:w="0" w:type="dxa"/>
+						<w:right w:w="108" w:type="dxa"/>
+					</w:tblCellMar>
+				</w:tblPr>
+				<w:tblGrid>
+					<w:gridCol w:w="2130"/>
+					<w:gridCol w:w="2130"/>
+					<w:gridCol w:w="2130"/>
+					<w:gridCol w:w="2131"/>
+				</w:tblGrid>
+				<w:tr>
+					<w:tblPrEx>
+						<w:tblBorders>
+							<w:top w:val="nil"/>
+							<w:left w:val="nil"/>
+							<w:bottom w:val="nil"/>
+							<w:right w:val="nil"/>
+							<w:insideH w:val="nil"/>
+							<w:insideV w:val="nil"/>
+						</w:tblBorders>
+						<w:tblCellMar>
+							<w:top w:w="0" w:type="dxa"/>
+							<w:left w:w="108" w:type="dxa"/>
+							<w:bottom w:w="0" w:type="dxa"/>
+							<w:right w:w="108" w:type="dxa"/>
+						</w:tblCellMar>
+					</w:tblPrEx>
+					<w:trPr/>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="2130" w:type="dxa"/>
+							<w:shd w:val="clear" w:color="auto" w:fill="00B0F0"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:widowControl w:val="off"/>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="both"/>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:fareast="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>与本人关系</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="2130" w:type="dxa"/>
+							<w:shd w:val="clear" w:color="auto" w:fill="00B0F0"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:widowControl w:val="off"/>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="both"/>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:fareast="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>家庭成员姓名</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="2130" w:type="dxa"/>
+							<w:shd w:val="clear" w:color="auto" w:fill="00B0F0"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:widowControl w:val="off"/>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="both"/>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:fareast="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>工作单位</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="2131" w:type="dxa"/>
+							<w:shd w:val="clear" w:color="auto" w:fill="00B0F0"/>
+						</w:tcPr>
+						<w:p>
+							<w:pPr>
+								<w:widowControl w:val="off"/>
+								<w:spacing w:before-lines="0" w:after-lines="0"/>
+								<w:jc w:val="both"/>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:fareast="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+									<w:sz w:val="24"/>
+									<w:vertAlign w:val="baseline"/>
+									<w:lang w:fareast="ZH-CN"/>
+								</w:rPr>
+								<w:t>联系电话</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+				</w:tr>
+			</w:tbl>
+			<w:p>
+				<w:pPr>
+					<w:spacing w:before-lines="0" w:after-lines="0"/>
+					<w:rPr>
+						<w:rFonts w:hint="fareast"/>
+						<w:color w:val="FF0000"/>
+						<w:sz w:val="24"/>
+					</w:rPr>
+				</w:pPr>
+			</w:p>
+			<w:p>
+				<w:pPr>
+					<w:spacing w:before-lines="0" w:after-lines="0"/>
+					<w:rPr>
+						<w:rFonts w:hint="fareast"/>
+						<w:color w:val="FF0000"/>
+						<w:sz w:val="24"/>
+						<w:lang w:fareast="ZH-CN"/>
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast"/>
+						<w:color w:val="FF0000"/>
+						<w:sz w:val="24"/>
+					</w:rPr>
+					<w:t>备注：入职申请单据参照的是【入职登记】这张表，转正申请、兼职申请</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast"/>
+						<w:color w:val="FF0000"/>
+						<w:sz w:val="24"/>
+						<w:lang w:fareast="ZH-CN"/>
+					</w:rPr>
+					<w:t>……</w:t>
+				</w:r>
+			</w:p>
+			<w:p>
+				<w:pPr>
+					<w:spacing w:before-lines="0" w:after-lines="0"/>
+					<w:rPr>
+						<w:rFonts w:hint="fareast"/>
+						<w:color w:val="FF0000"/>
+						<w:sz w:val="24"/>
+						<w:lang w:fareast="ZH-CN"/>
+					</w:rPr>
+				</w:pPr>
+			</w:p>
+			<w:p>
+				<w:pPr>
+					<w:spacing w:before-lines="0" w:after-lines="0"/>
+					<w:rPr>
+						<w:rFonts w:hint="fareast"/>
+						<w:color w:val="FF0000"/>
+						<w:sz w:val="24"/>
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:pict>
+						<w:binData w:name="wordml://1.png">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAHMAWYDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKgubqCzt3uLmVYokGWdjgAe9AE9FeW+Kvjf
+4d0SBo9LZtTvSPkVARGp/wBpj/SvJtU+OXjG/EixTwWUb5AWKMZUf7x5zQB9M6hrumaSjPf3iW6r
+1ZwcD8cVlxfELwhPjy/EVgcnAzKB/OvkTU/E+t6u5a+1O7nHo8hx+XSsdhuJYqcmgD7Un8d+HbV4
+/P1W1EUpwkqSh0/Ejp+Nb9vcQXduk9vKksLjKujAqw9QRXwasjxn5CwHoOldJ4a8f+I/Cj40vUpI
+4CwZrZ/miP8AwE9PwoA+1KK+fNH/AGipxJGur6UpTOGeBufwr07w/wDFPwp4jvYrKz1DZdy4CQyo
+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
+OPWom5cZpAS0Ug6ClpgLRSUUrgf/2Q==</w:binData>
+						<v:shape id="_x0000_s1026" o:spt="75" alt="" type="#_x0000_t75" style="height:30pt;width:114.75pt;" filled="f" o:preferrelative="t" stroked="f" coordsize="21600,21600">
+							<v:path/>
+							<v:fill on="f" focussize="0,0"/>
+							<v:stroke on="f"/>
+							<v:imagedata src="wordml://1.png" o:title="wordml://1.png"/>
+							<o:lock v:ext="edit" aspectratio="t"/>
+							<w10:wrap type="none"/>
+							<w10:anchorlock/>
+						</v:shape>
+					</w:pict>
+				</w:r>
+			</w:p>
+			<w:sectPr>
+				<w:pgSz w:w="11906" w:h="16838"/>
+				<w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/>
+				<w:lnNumType w:distance="360"/>
+				<w:cols w:space="720"/>
+				<w:docGrid w:type="lines" w:line-pitch="312"/>
+			</w:sectPr>
+		</wx:sect>
+	</w:body>
+</w:wordDocument>
